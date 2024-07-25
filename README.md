@@ -24,7 +24,7 @@ java -jar target/Metrics-Consumer-0.0.1-SNAPSHOT.jar
 java -jar target/Metrics-Producer-0.0.1-SNAPSHOT.jar
 ```
 
-## Запуск контейнера Kafka и Zookeeper
+## Запуск docker контейнера Kafka и Zookeeper
 
 ```bash
 cd Metrics-Producer && docker-compose up
