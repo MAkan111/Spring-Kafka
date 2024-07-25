@@ -4,7 +4,7 @@
 
 Реализация системы мониторинга из двух микросервисов с использованием Spring Kafka
 
-## Сборка backend части
+## Сборка микросервисов
 
 ```cmd
 cd Metrics-Consumer && mvn clean package
